@@ -27,6 +27,6 @@ https://github.com/benbowlingGT/Mortgage-Sales-Performance-Analytics/blob/main/E
 https://github.com/benbowlingGT/Mortgage-Sales-Performance-Analytics/blob/main/Mortgage_Loan%20Officer_Performance_Scorecard_dashboard.png
 
 ### Page 3: Trend & Growth Analysis
-
+https://github.com/benbowlingGT/Mortgage-Sales-Performance-Analytics/blob/main/Trend_Analysis-Mortgage.png
 ---
 *Note: This project was built as a proof-of-concept for sales analytics roles.*
