@@ -24,6 +24,7 @@ I developed a 3-page interactive Power BI suite that transforms raw loan applica
 https://github.com/benbowlingGT/Mortgage-Sales-Performance-Analytics/blob/main/Executive_Overview-Mortgage.png
 
 ### Page 2: Officer Scorecard
+https://github.com/benbowlingGT/Mortgage-Sales-Performance-Analytics/blob/main/Mortgage_Loan%20Officer_Performance_Scorecard_dashboard.png
 
 ### Page 3: Trend & Growth Analysis
 
